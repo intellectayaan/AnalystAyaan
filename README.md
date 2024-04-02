@@ -6,7 +6,7 @@
 
 🌱 I’m currently enhancing my skills
 
-👨‍💻 All of my projects are available at https://harshitaachadha.github.io/
+👨‍💻 All of my projects are available at https://sarwarayaanali.notion.site/Sarwar-Ayaan-Ali-971227c455374ebba76667229975f1a8?pvs=4
 
 📫 Reach me intellectayaan4@gmail.com
 
