@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ayaan
 
-# I am a Data Analyst and willing to contribute with all of my data analysis learnings and skills to my dear company for whom I will work.
+I am a Data Analyst and willing to contribute with all of my data analysis learnings and skills to my dear company for whom I will work.
 
 🔭 I’m a Google Certified Data Analyst
 
